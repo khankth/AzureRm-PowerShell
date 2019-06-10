@@ -1,13 +1,13 @@
 
 {
-    "location":"francecentral",
+    "location":"westeurope",
     "tags":
         {
-            "usage": "demo",
-            "contact": "j.dumont@veebaze.com"
+            "usage": "muaddemo",
+            "contact": "khankth2008@hotmail.com"
         },
     "resource_group_name":"infr-jdld-noprd-rg1", 
-    "storage_account_name":"infrsand1vpcjdld1",
+    "storage_account_name":"infrsand124143kew",
     "storage_account_sku_name":"Standard_LRS",
     "container_name":"tfstate"
 }
